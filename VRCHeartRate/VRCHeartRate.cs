@@ -75,7 +75,7 @@ namespace BLE_HeartRate
                 string message = Encoding.UTF8.GetString(bytRecv, 0, bytRecv.Length);
                 var index = ParamLib.ParamLib.FindParam("HeartRate", VRCExpressionParameters.ValueType.Float);
                 if (index.Item1 != -1)
-                    ParamLib.ParamLib.SetParameter(index.Item1, float.Parse(message) / 200.0f);
+                    ParamLib.ParamLib.SetParameter(index.Item1, (float.Parse(message)+1) / 200.0f);
             }
         }
 
