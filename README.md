@@ -22,8 +22,8 @@ Add a parameter to VRC Expression parameter called HeartRate, also add this para
 
 Add two layers in that controller like this
 
-![](https://imgur.com/JZlbSiM.png)
-![](https://imgur.com/muvHvSM.png)
+![](https://imgur.com/w4w7z2j.png)
+![](https://imgur.com/pKLGazK.png)
 
 Then upload your avatar and lunch the game.
 
