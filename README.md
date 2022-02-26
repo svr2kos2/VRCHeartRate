@@ -1,3 +1,9 @@
+# This program is not recommended to use
+This project was created before VRChat has release OSC.  
+So you should use OSC instead.  
+But you can still check this to know how to communicate with BLE Heart Rate devices.  
+Maybe someday I will switch the method to OSC-based.
+
 # VRCHeartRate
 This mod can let VRChat show your heart rate via BLE heart rate monitor.
 
